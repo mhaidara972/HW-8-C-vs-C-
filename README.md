@@ -10,6 +10,7 @@ This project implements basic matrix operations (addition, multiplication, scala
 **FILES:**
 * matrix.cpp: C++ source code implementing a Matrix class with matrix operations.
 * matrix.c: C source code implementing a library of functions for matrix operations (C99 standard).
+
 **BUILD INSTRUCTIONS:**
 
 **C++:**
